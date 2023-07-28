@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppMergeSort\ConAppMergeSort\bin\Debug\ConAppMergeSort.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppMergeSort\ConAppMergeSort\bin\Debug\ConAppMergeSort.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppMergeSort\ConAppMergeSort\bin\Debug\ConAppMergeSort.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppMergeSort\ConAppMergeSort\obj\Debug\ConAppMergeSort.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppMergeSort\ConAppMergeSort\obj\Debug\ConAppMergeSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppMergeSort\ConAppMergeSort\obj\Debug\ConAppMergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppMergeSort\ConAppMergeSort\obj\Debug\ConAppMergeSort.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppMergeSort\ConAppMergeSort\obj\Debug\ConAppMergeSort.pdb
