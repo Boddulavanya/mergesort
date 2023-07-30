@@ -10,7 +10,7 @@ namespace ConAppMergeSort
     {
         static void Main(string[] args)
         {
-            runApp();
+              runApp();
         }
 
         public static void runApp()
@@ -28,13 +28,12 @@ namespace ConAppMergeSort
             marks[9] = 56;
 
             mergeSort(marks, 0, 10 - 1);
-
+            Console.WriteLine("marks are :");
             for (int i = 0; i < marks.Length; i++)
             {
                 Console.WriteLine(marks[i]);
-                Console.ReadKey();
-
-                    }
+            }
+            Console.ReadKey ();
         }
 
         public static void mergeSort(int[] arr, int p, int r)
@@ -95,3 +94,10 @@ namespace ConAppMergeSort
         }
     }
 }
+           
+
+           
+       
+           
+             
+             
